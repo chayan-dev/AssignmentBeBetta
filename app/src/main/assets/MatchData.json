@@ -1,0 +1,38 @@
+[
+  {
+    "team1":"Espanyol",
+    "team2":"Atl. Madrid",
+    "score1":"2",
+    "score2":"0",
+    "minsPlayed":"72",
+    "logoTeam1":"https://www.pngfind.com/pngs/m/334-3343175_rcd-espanyol-barcelona-real-club-deportivo-espaol-logo.png",
+    "logoTeam2":"https://drive.google.com/file/d/1CkTlAW5tO7B2mdS4CfJubQMyXK-hSRfi/view?usp=sharing"
+  },
+  {
+    "team1":"Leeds Utd.",
+    "team2":"Liverpool",
+    "score1":"1",
+    "score2":"3",
+    "minsPlayed":"37",
+    "logoTeam1":"https://drive.google.com/file/d/1-dXFTkUv1evNZYCW6aQL1nEdOqwkl7Ge/view?usp=sharing",
+    "logoTeam2":"https://drive.google.com/file/d/1CkTlAW5tO7B2mdS4CfJubQMyXK-hSRfi/view?usp=sharing"
+  },
+  {
+    "team1":"Espanyol",
+    "team2":"Atl. Madrid",
+    "score1":"2",
+    "score2":"0",
+    "minsPlayed":"72",
+    "logoTeam1":"https://drive.google.com/file/d/1-dXFTkUv1evNZYCW6aQL1nEdOqwkl7Ge/view?usp=sharing",
+    "logoTeam2":"https://drive.google.com/file/d/1CkTlAW5tO7B2mdS4CfJubQMyXK-hSRfi/view?usp=sharing"
+  },
+  {
+    "team1":"Leeds Utd.",
+    "team2":"Liverpool",
+    "score1":"1",
+    "score2":"3",
+    "minsPlayed":"37",
+    "logoTeam1":"https://drive.google.com/file/d/1-dXFTkUv1evNZYCW6aQL1nEdOqwkl7Ge/view?usp=sharing",
+    "logoTeam2":"https://drive.google.com/file/d/1CkTlAW5tO7B2mdS4CfJubQMyXK-hSRfi/view?usp=sharing"
+  }
+]
