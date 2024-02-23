@@ -16,9 +16,9 @@
     <androidx.appcompat.widget.AppCompatTextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Betta coins are your besties \n which get you rewards"
+        android:text="@string/betta_coins_are_your_besties_n_which_get_you_rewards"
         android:gravity="center"
-        android:textSize="16dp"
+        android:textSize="16sp"
         android:textColor="#B0B0B0"
         android:paddingHorizontal="36dp"
         app:layout_constraintBottom_toBottomOf="@id/ivBackground"/>
@@ -36,7 +36,7 @@
         android:background="@drawable/rewards_rounded_bg"
         android:paddingVertical="10dp"
         android:paddingHorizontal="16dp"
-        android:text="EXPLORE REWARDS"
+        android:text="@string/explore_rewards"
         android:textStyle="bold"
         android:textColor="@color/white"
         android:layout_marginBottom="50dp"
